@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(201, 201, 195);
+
+}
+h1{
+    text-align: center;
+    color: rgb(39, 102, 220);
+ 
+}
+h2{
+    text-align: center;
+    font-size: larger;
+}
+
+#carrd{
+    
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+   font-size: medium;
+    
+   
+    text-align: center;
+    
+}
+button{
+    color: white;
+    background-color: rgb(53, 127, 238);
+}
